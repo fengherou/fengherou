@@ -17,7 +17,7 @@
 
 ### 📊 GitHub 实时数据统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fengherou&show_icons=true&theme=radial&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fengherou&theme=radial&hide_border=true" />
 </p>
 
 ---
